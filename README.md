@@ -28,7 +28,8 @@ src/
         └── catalogo/
             ├── Main.java
             └── ExchangeRateClient.java
-🧠 Autor
+
+Autor
 
 Creado por Violett como proyecto de práctica en Java.
 
